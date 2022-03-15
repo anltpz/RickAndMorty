@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/alive"
+        android:title="Alive" />
+    <item
+        android:id="@+id/dead"
+        android:title="Dead" />
+    <item
+        android:id="@+id/unknow"
+        android:title="Unknow" />
+    <item
+        android:id="@+id/allCharacter"
+        android:title="All Character" />
+</menu>
